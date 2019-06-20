@@ -11,18 +11,7 @@ Created by Yaroslav Oliinyk
 
 	Interface and controlling
 1. Firstly, the program suggests you to choose the level of your competitor. From 1 to 10 when 1 is the weakest competitor and 10 is the strongest
-2. After you'll see the following table:
-   A  B  C  D  E  F  G  H  
-1  O  #  O  #  O  #  O  # 
-2  #  O  #  O  #  O  #  O 
-3  O  #  O  #  O  #  O  # 
-4  #     #     #     #    
-5     #     #     #     # 
-6  #  @  #  @  #  @  #  @ 
-7  @  #  @  #  @  #  @  # 
-8  #  @  #  @  #  @  #  @ 
-
-Here, your checkers are represented as 'O', the enemy's are '@'
+2. Then the table will apper. Here, your checkers are represented as 'O', the enemy's are '@'
 
 3. In order to make a move you need to type the position of the checker you want to move, for instance:
 'A3' - the very left checker.
