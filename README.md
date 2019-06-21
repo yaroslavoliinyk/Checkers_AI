@@ -2,16 +2,16 @@
 *Created by Yaroslav Oliinyk*
 
 		CHECKERS_AI
-	##Launching the program
+##Launching the program
 1. Download the repository
 2. Extract the program in "*Downloads*" folder
 3. Use the following command: "*cd ~/Downloads/Checkers_AI/checkers/out/production/checkers/*"
 4. Then use: "*java Checkers*"
 5. Well done! The program is running.
 
-	##Interface and controlling
+##Interface and controlling
 * Firstly, the program suggests you to choose the level of your competitor.
-From 1 to 10 when 1 is the weakest competitor and 10 is the strongest
+From 1 to 10 when 1 is **the weakest** competitor and 10 is **the strongest**
 >![Choosing level of opponent](https://raw.githubusercontent.com/yaroslavoliinyk/checkers_AI/master/pics/1.png)
 * Then the table will appear. Here, your checkers are represented as 'O', the enemy's are '@'
 >![The table](https://raw.githubusercontent.com/yaroslavoliinyk/checkers_AI/master/pics/2.png)
