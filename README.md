@@ -21,8 +21,8 @@ From 1 to 10 when 1 is the weakest competitor and 10 is the strongest
 That's what we will write.
 It looks as following:
 >![The move](https://raw.githubusercontent.com/yaroslavoliinyk/checkers_AI/master/pics/3.png)
-	* The table will affect the changes:
-	>![The changed table](https://raw.githubusercontent.com/yaroslavoliinyk/checkers_AI/master/pics/4.png)
+* The table will affect the changes:
+>![The changed table](https://raw.githubusercontent.com/yaroslavoliinyk/checkers_AI/master/pics/4.png)
 * You need to wait until your opponent makes a move and you will proceed.
 Here's an opponent's move:
 >![The move](https://raw.githubusercontent.com/yaroslavoliinyk/checkers_AI/master/pics/5.png)
