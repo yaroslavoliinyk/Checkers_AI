@@ -20,6 +20,6 @@ That's what we will write.
 5. You need to wait until your opponent makes a move and you will proceed.
 6. The game will end until you or AI bot wins.
 7. Have fun!
-![HELLLOOOOO](https://raw.githubusercontent.com/yaroslavoliinyk/checkers_AI/master/1.png)
+![HELLLOOOOO](https://raw.githubusercontent.com/yaroslavoliinyk/checkers_AI/master/pics/1.png)
 		All rights reserved
 			2019
