@@ -1,7 +1,7 @@
-# checkers_AI
+# CHECKERS_AI
 *Created by Yaroslav Oliinyk*
 
-## CHECKERS_AI
+
 		
 ### Launching the program
 1. Download the repository
