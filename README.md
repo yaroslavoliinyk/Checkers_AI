@@ -32,5 +32,5 @@ Here's an opponent's move:
 * **The game will end until *you* or *AI* bot wins.**
 ### Have fun!
 
-		*All rights reserved*
-			*2019*
+		All rights reserved
+			2019
