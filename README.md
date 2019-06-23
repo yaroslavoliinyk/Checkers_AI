@@ -5,7 +5,7 @@
 		
 ### Launching the program
 1. Download the repository
-2. Extract the repository in "*Downloads*" folder
+2. Unzip the repository in "*Downloads*" folder
 3. You'll have the following package: Checkers_AI-master
 4. Run the next command to unzip the program: "*tar -xJf ~/Downloads/Checkers_AI-master/Checkers_AI.tar.xz*"
 5. Use the following command: "*cd ~/Downloads/Checkers_AI-master/Checkers_AI/checkers/out/production/checkers/*"
