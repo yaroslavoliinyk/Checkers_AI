@@ -7,10 +7,11 @@
 1. Download the repository
 2. Unzip the repository in "*Downloads*" folder
 3. You'll have the following package: Checkers_AI-master
-4. Run the next command to unzip the program: "*tar -xJf ~/Downloads/Checkers_AI-master/Checkers_AI.tar.xz*"
-5. Use the following command: "*cd ~/Downloads/Checkers_AI-master/Checkers_AI/checkers/out/production/checkers/*"
-6. Then use: "*java Checkers*"
-7. Well done! The program is running.
+4. Enter this package: "*cd ~/Downloads/Checkers_AI-master/*"
+5. Run the next command to extract the program: "*tar -xJf Checkers_AI.tar.xz*"
+6. Use the following command: "*cd ~/Downloads/Checkers_AI-master/Checkers_AI/checkers/out/production/checkers/*"
+7. Then use: "*java Checkers*"
+8. Well done! The program is running.
 
 ### Interface and controlling
 * Firstly, the program suggests you to choose the level of your competitor.
